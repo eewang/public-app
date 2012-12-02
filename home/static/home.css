@@ -1,0 +1,32 @@
+.name {
+	font-size:42px;
+	font-family:"trebuchet ms";
+	display:inline;
+}
+
+.header {
+	border-bottom:solid;
+	padding-bottom:5px;
+	width:100%;
+}
+
+#page_link {
+	display:inline-block;
+	float:right;
+	text-align:center;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:10px;
+	padding:5px 5px 5px 5px;
+	border:solid;
+	border-radius:10px;
+	color:#050;
+	font:bold 100% 'trebuchet ms', helvetica, sans-serif;
+	background:#fed;
+}
+
+#search {
+	display:inline-block;
+	float:right;
+	margin-top:25px;
+}
